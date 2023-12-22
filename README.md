@@ -38,12 +38,4 @@ pip install torch transformers datasets
 8. **Try Out Blocks**
    - Interactive sections for hands-on experimentation and learning.
 
-## Usage
-Open the notebook in Jupyter Lab or Jupyter Notebook and follow the instructions in each section. The notebook is designed to be self-explanatory, guiding you through each step of the process.
-
-## Contributing
-Contributions to the notebook are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-Specify the license under which this notebook is released, if applicable.
 
